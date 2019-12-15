@@ -12,7 +12,7 @@ COSC2196 Assignment 1: My Profile</h1>
 
 <p><b>Background:</b></p>
 <p>I’m Australian and was born in Melbourne I have studied previously with RMIT.
-English is my only spoken language.</p> 
+English is my only spoken language.</p>
 <p>My hobbies are building pc’s, keeping marine fish and coral, camping and spearfishing.</p>
 
 <img src="ProfilePic.jpeg" alt="Me and partner in Yosemite National Park" style="width:600px;height:500px;">
@@ -87,7 +87,7 @@ Results:</b></h3>
 <h3><b>Online learning test
 Results:</b></h3>
 
-<img src="OnlineLearningTest.png" alt="Online learning Test" width="500" height="600">
+<img src="OnlineLearningTest.png" alt="Online learning Test" width="600" height="500">
 
 <ul>
   <li><b>What do the results of the test mean for you?</b></li>
@@ -101,7 +101,7 @@ Results:</b></h3>
 <h3><b>Creativity Test
 Results:</b></h3>
 
-<img src="CreativityTest.png" alt="Creativity Test" width="500" height="600">
+<img src="CreativityTest.png" alt="Creativity Test" width="600" height="500">
 
 <ul>
   <li><b>What do the results of the test mean for you?</b></li>
