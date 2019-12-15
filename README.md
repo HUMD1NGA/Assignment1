@@ -1,8 +1,7 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
+<title>Assignment 1</title>
 
-</head>
 <body>
 <h1>INTRODUCTION TO INFORMATION TECHNOLOGY
 COSC2196 Assignment 1: My Profile</h1>
@@ -11,7 +10,7 @@ COSC2196 Assignment 1: My Profile</h1>
 <p><b>Student Number:</b> s3075523</p>
 <p><b>Email:</b>s3075523@student.rmit.edu.au</p>
 
-<p><b>Background:</b></p> 
+<p><b>Background:</b></p>
 <p>I’m Australian and was born in Melbourne I have studied previously with RMIT.
 English is my only spoken language. My hobbies are building pc’s, keeping marine fish and coral, camping and spearfishing.</p>
 
