@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>INTRODUCTION TO INFORMATION TECHNOLOGY
-COSC2196 Assignment 1: My Profile</title>
+<title>Assignment 1: My Profile</title>
 
 </head>
-<body>
+<body> 
+<h1>INTRODUCTION TO INFORMATION TECHNOLOGY
+COSC2196 Assignment 1: My Profile</h1> 
 
-<h4>Name: Adam Hedt
+<p>Name: Adam Hedt
 Student Number: s3075523
-Email. s3075523@student.rmit.edu.au</h4>
+Email. s3075523@student.rmit.edu.au</p>
 
 <img src="ProfilePic.jpeg" alt="Me">
 
@@ -21,17 +22,16 @@ My hobbies are building pc’s, keeping marine fish and coral, camping and spear
 <p>What interests me about IT is the ever-evolving technological advances across all spectrums of the field.
   Whether it’s in the medical field with exome sequencing and the cost reduction over the last 20 years from millions of dollars to now under a thousand for a single genome sequence.
   Or the evolution of mobile phones my first one in 1998 that was a Nokia 5110, it could make calls, play one game snake and had a monochrome screen, to now an Apple iPhone 11 that is in its own
-  right a mini modern computer that can make colour video calls to the other side of the world, play an extensive library of songs through an internet connection from a server in another country.
+  right a mini modern computer that can make colour video calls to the other side of the world, play an extensive library of songs through an internet connection from a server in another country.</p>
 
-My interest in IT started at a young age probably around 4-5 playing on handheld Nintendo watch gaming devices. When I was about 8 my father bought my first computer a 386 I had to use dos commands to run programs and games.
-Throughout my school years I’ve used different software applications photoshop, CAD, Office etc. I have built quite a few PC’s over the years for myself, family and friends,
-this has been useful with problem solving with components that were either faulty or not setup right.
-Over the last year or so I have been learning to program using Xcode with the Swift language and Eclipse/Android Studio with the Java language.
-I have also installed and built a large home network at home with ip cameras, gigabyte network switches, wireless access points to cover the entire block and some home automation.
+<p>My interest in IT started at a young age probably around 4-5 playing on handheld Nintendo watch gaming devices. When I was about 8 my father bought my first computer a 386 I had to use dos commands
+to run programs and games. Throughout my school years I’ve used different software applications photoshop, CAD, Office etc. I have built quite a few PC’s over the years for myself, family and friends,
+this has been useful with problem solving with components that were either faulty or not setup right. Over the last year or so I have been learning to program using Xcode with the Swift language
+and Eclipse/Android Studio with the Java language. I have also installed and built a large home network at home with ip cameras, gigabyte network switches, wireless access points to cover the entire block and some home automation.
 I also love gaming and game on nearly every platform PC/PlayStation/Xbox/Nintendo/mobile when I have the time.
-PC and PlayStation are my preferred platforms to game on as all my friends use them and they seem to have the best content that I enjoy.
+PC and PlayStation are my preferred platforms to game on as all my friends use them and they seem to have the best content that I enjoy.</p>
 
-I am taking this course through RMIT to one day change careers; IT really excites me as it has so many different avenues to explore. One day I like to run a team of people working on large projects within the IT field.
+<p>I am taking this course through RMIT to one day change careers; IT really excites me as it has so many different avenues to explore. One day I like to run a team of people working on large projects within the IT field.
 Developing apps that will improve people’s everyday lives would be another thing I would like to achieve.
 
 During my studies I would like to learn how to become a proficient programmer and gain knowledge on how to code in other languages.
@@ -40,29 +40,29 @@ Networking and Cloud computing are other areas of the IT field that I would like
 <h2>IDEAL JOB
 IOS MOBILE DEVELOPER</h2>
 <a herf="https://www.seek.com.au/job/40549192?type=standard#searchRequestToken=b88b9b9d-d0f1-4d8b-82dc-ba34559cfb81" target="_blank"></a>
-<img src="JobAdvert.png" alt="Advert">
+<img src="JobAdvert.PNG" alt="Advert">
 
 <p>The job position is that of a mobile developer who will work with client’s digital products to produce applications for them through the iOS, tvOS and watchOS platforms of Apple whilst continually updating and improving them.
 This will include planning the application, coding, testing, documenting and using API integration and refactor complex program integration within the app. There will be ongoing work with maintaining the code with fixing performance
-issues and bug fixes, as well as optimising the quality and automatization of the code. Using Jira for following workflow of a project, reviewing your work and others involved within projects.
+issues and bug fixes, as well as optimising the quality and automatization of the code. Using Jira for following workflow of a project, reviewing your work and others involved within projects.</p>
 
-This position appeals to me as it would be something, I would like to end up doing as a career, working with teams in developing applications that will benefit others in their everyday lives.
+<p>This position appeals to me as it would be something, I would like to end up doing as a career, working with teams in developing applications that will benefit others in their everyday lives.
 I enjoy programming as I find it challenging with debugging code when it won’t compile, I also enjoy working within teams. I also like using Xcode with the GUI interface, it has so many great features that are easy to use.
-Working with API’s requesting and retrieving data to implement within the code also interests me as I find it a challenge but also quite satisfying when it all works.
+Working with API’s requesting and retrieving data to implement within the code also interests me as I find it a challenge but also quite satisfying when it all works.</p>
 
-With the skills and qualifications and experience for the position, the employer is asking that the applicant must be a well experienced professional mobile developer who is confident in Objective C, iOS frameworks and API backend integration.
+<p>With the skills and qualifications and experience for the position, the employer is asking that the applicant must be a well experienced professional mobile developer who is confident in Objective C, iOS frameworks and API backend integration.
 They also need to understand the Apples design principles and interface guidelines of Xcode UI. Experience with offline storage, threading and performance tuning of apps as well as memory optimisation so the apps are running proficiently
 and don’t cause excessive memory usage. A well-focused individual showing attention to detail and the ability to analyse and implement. Experience in cloud messaging API’s for push notifications to the application devices. Experience with Jira,
-Git code and management tools for the validation of code through repositories. Be able to use a SDLC planning approach to projects and contributions to improving the operational effectiveness of the projects.
+Git code and management tools for the validation of code through repositories. Be able to use a SDLC planning approach to projects and contributions to improving the operational effectiveness of the projects.</p>
 
-I have worked in a team environment over the past 17 years.
+<p>I have worked in a team environment over the past 17 years.
 I have run projects on my own and work within a group, consulting with other group participants on the progress, problem-solving and final outcome of projects.
 2 years’ experience using and developing applications with Swift and Xcode.
 Using API integration within the applications.
 I am proficient in Word, Excel and PowerPoint as well as windows/OS operating systems.
-I have successfully completed the iOS App Development with Swift course through RMIT.
+I have successfully completed the iOS App Development with Swift course through RMIT.</p>
 
-I plan of obtaining a Bachelor of Information Technology, through this degree I will gain better experience within the programming field in different coding languages to be more competent programmer.
+<p>I plan of obtaining a Bachelor of Information Technology, through this degree I will gain better experience within the programming field in different coding languages to be more competent programmer.
 Also, a deeper understating of computer, network and cloud design that I can utilise within application development. Also gaining experience in repository tools like Git and Jira will help me obtain a position like this.</p>
 
 <h2>PERSONAL PROFILE</H2>
@@ -70,7 +70,7 @@ Also, a deeper understating of computer, network and cloud design that I can uti
 <h3>Myers-Briggs test
 Results:</h3>
 
-<img src="MyersBriggsTest.png" alt="Myers Briggs Test">
+<img src="MyersBriggsTest.PNG" alt="Myers Briggs Test">
 
 <ul>
   <li>What do the results of the test mean for you?</li>
@@ -86,10 +86,10 @@ Results:</h3>
 <h3>Online learning test
 Results:</h3>
 
-<img src="OnlineLearningTest.png" alt="Online learning Test">
+<img src="OnlineLearningTest.PNG" alt="Online learning Test">
 
 <ul>
-  <li>What do the results of the test mean for you?</li>
+  <li><b>What do the results of the test mean for you?</b></li>
   <p>These results from the learning style test mean to me that I’m a visual learner, taking a learning approach more to reading and visually seeing things than just talking about them.</p>
   <li>How do you think these results may influence your behaviour in a team?</li>
   <p>With these results I’d say it would influence myself to have more conference meeting within a team either in a board meeting or over a video conference call where topics are discussed with visual aids.</p>
@@ -100,7 +100,7 @@ Results:</h3>
 <h3>Creativity Test
 Results:</h3>
 
-<img src="CreativityTest.png" alt="Creativity Test">
+<img src="CreativityTest.PNG" alt="Creativity Test">
 
 <ul>
   <li>What do the results of the test mean for you?</li>
