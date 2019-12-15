@@ -4,15 +4,15 @@
 <title>Assignment 1: My Profile</title>
 
 </head>
-<body> [browser will display between body tags]
+<body> 
 <h1>INTRODUCTION TO INFORMATION TECHNOLOGY
-COSC2196 Assignment 1: My Profile</h1> (this is a heading)
+COSC2196 Assignment 1: My Profile</h1> 
 
 <p>Name: Adam Hedt
 Student Number: s3075523
-Email. s3075523@student.rmit.edu.au</p> (this is a paragraph)
+Email. s3075523@student.rmit.edu.au</p> 
 
-<img src="ProfilePic.JPG" alt="Me">
+<img src="ProfilePic.JPEG" alt="Me">
 
 <p>Background:
 I’m Australian and was born in Melbourne I have studied previously with RMIT. English is my only spoken language.
