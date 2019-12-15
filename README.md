@@ -7,9 +7,9 @@
 <h1>INTRODUCTION TO INFORMATION TECHNOLOGY
 COSC2196 Assignment 1: My Profile</h1>
 
-<p>Name: Adam Hedt</p>
-<p>Student Number: s3075523</p>
-<p>Email. s3075523@student.rmit.edu.au</p>
+<p><b>Name:</b> Adam Hedt</p>
+<p><b>Student Number:</b> s3075523</p>
+<p><b>Email:</b> <font size="8" color="blue">s3075523@student.rmit.edu.au</font></p>
 
 <p><b>Background:</b> I’m Australian and was born in Melbourne I have studied previously with RMIT.</p>
 <p>English is my only spoken language. My hobbies are building pc’s, keeping marine fish and coral, camping and spearfishing.</p>
@@ -150,3 +150,4 @@ Planning and organisation skills of the project development, with competency in 
 By combining all these health areas into one manageable application it could solve users having to use multiple apps for each individual field.</p>
 </body>
 </html>
+
