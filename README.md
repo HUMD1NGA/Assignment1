@@ -70,7 +70,7 @@ Also, a deeper understating of computer, network and cloud design that I can uti
 <h3>Myers-Briggs test
 Results:</h3>
 
-<img src="MyersBriggsTest.PNG" alt="Myers Briggs Test">
+<img src="MyersBriggsTest.png" alt="Myers Briggs Test">
 
 <ul>
   <li>What do the results of the test mean for you?</li>
@@ -86,7 +86,7 @@ Results:</h3>
 <h3>Online learning test
 Results:</h3>
 
-<img src="OnlineLearningTest.PNG" alt="Online learning Test">
+<img src="OnlineLearningTest.png" alt="Online learning Test">
 
 <ul>
   <li><b>What do the results of the test mean for you?</b></li>
@@ -100,7 +100,7 @@ Results:</h3>
 <h3>Creativity Test
 Results:</h3>
 
-<img src="CreativityTest.PNG" alt="Creativity Test">
+<img src="CreativityTest.png" alt="Creativity Test">
 
 <ul>
   <li>What do the results of the test mean for you?</li>
@@ -148,4 +148,3 @@ Planning and organisation skills of the project development, with competency in 
 By combining all these health areas into one manageable application it could solve users having to use multiple apps for each individual field.</p>
 </body>
 </html>
-
