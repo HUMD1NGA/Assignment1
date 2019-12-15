@@ -39,9 +39,9 @@ Networking and Cloud computing are other areas of the IT field that I would like
 
 <h2>IDEAL JOB: IOS MOBILE DEVELOPER</h2>
 
-<img src="JobAdvert.png" alt="Advert">
-
 <p><a href="https://www.seek.com.au/job/40549192?type=standard#searchRequestToken=b88b9b9d-d0f1-4d8b-82dc-ba34559cfb81" target="_blank">clink link to see job profile on Seek</a></p>
+
+<img src="JobAdvert.png" alt="Advert">
 
 <p>The job position is that of a mobile developer who will work with client’s digital products to produce applications for them through the iOS, tvOS and watchOS platforms of Apple whilst continually updating and improving them.
 This will include planning the application, coding, testing, documenting and using API integration and refactor complex program integration within the app. There will be ongoing work with maintaining the code with fixing performance
@@ -68,8 +68,8 @@ Also, a deeper understating of computer, network and cloud design that I can uti
 
 <h2>PERSONAL PROFILE</H2>
 
-<h3>Myers-Briggs test
-Results:</h3>
+<h3><b>Myers-Briggs test
+Results:</b></h3>
 
 <img src="MyersBriggsTest.png" alt="Myers Briggs Test">
 
@@ -84,8 +84,8 @@ Results:</h3>
   get my ideas or opinions out into the open so others can give their views on what I’m thinking.</p>
 </ul>
 
-<h3>Online learning test
-Results:</h3>
+<h3><b>Online learning test
+Results:</b></h3>
 
 <img src="OnlineLearningTest.png" alt="Online learning Test">
 
@@ -98,8 +98,8 @@ Results:</h3>
   <p>When forming a team, I think that using applications for communication like video conferences or where you can discuss ideas and post images along with text would work best in a team environment for me.</p>
 </ul>
 
-<h3>Creativity Test
-Results:</h3>
+<h3><b>Creativity Test
+Results:</b></h3>
 
 <img src="CreativityTest.png" alt="Creativity Test">
 
