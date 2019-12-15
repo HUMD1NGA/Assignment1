@@ -15,7 +15,7 @@ COSC2196 Assignment 1: My Profile</h1>
 English is my only spoken language.</p>
 <p>My hobbies are building pc’s, keeping marine fish and coral, camping and spearfishing.</p>
 
-<img src="ProfilePic.jpeg" alt="Me and partner in Yosemite National Park" style="width:600px;height:500px;">
+<img src="ProfilePic.jpeg" alt="Me and partner in Yosemite National Park" style="width:850px;height:500px;">
 
 <h2>INTERESTS in IT</h2>
 <p>What interests me about IT is the ever-evolving technological advances across all spectrums of the field. Whether it’s in the medical field with exome sequencing
@@ -87,7 +87,7 @@ Results:</b></h3>
 <h3><b>Online learning test
 Results:</b></h3>
 
-<img src="OnlineLearningTest.png" alt="Online learning Test" width="750" height="600">
+<img src="OnlineLearningTest.png" alt="Online learning Test" width="850" height="700">
 
 <ul>
   <li><b>What do the results of the test mean for you?</b></li>
@@ -101,7 +101,7 @@ Results:</b></h3>
 <h3><b>Creativity Test
 Results:</b></h3>
 
-<img src="CreativityTest.png" alt="Creativity Test" width="750" height="600">
+<img src="CreativityTest.png" alt="Creativity Test" width="850" height="700">
 
 <ul>
   <li><b>What do the results of the test mean for you?</b></li>
