@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Assignment 1: My Profile</title>
-
-</head>
-<body> [browser will display between body tags]
 <title>INTRODUCTION TO INFORMATION TECHNOLOGY
 COSC2196 Assignment 1: My Profile</title>
 
-<p>Name: Adam Hedt
+</head>
+<body>
+
+<h4>Name: Adam Hedt
 Student Number: s3075523
-Email. s3075523@student.rmit.edu.au</p>
+Email. s3075523@student.rmit.edu.au</h4>
 
 <img src="ProfilePic.jpeg" alt="Me">
 
@@ -149,3 +148,4 @@ Planning and organisation skills of the project development, with competency in 
 By combining all these health areas into one manageable application it could solve users having to use multiple apps for each individual field.</p>
 </body>
 </html>
+
