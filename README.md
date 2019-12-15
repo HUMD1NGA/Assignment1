@@ -41,7 +41,7 @@ Networking and Cloud computing are other areas of the IT field that I would like
 
 <img src="JobAdvert.png" alt="Advert">
 
-<p><a herf="https://www.seek.com.au/job/40549192?type=standard#searchRequestToken=b88b9b9d-d0f1-4d8b-82dc-ba34559cfb81" target="_blank">clink link to see job profile on Seek</a></p>
+<p><a href="https://www.seek.com.au/job/40549192?type=standard#searchRequestToken=b88b9b9d-d0f1-4d8b-82dc-ba34559cfb81" target="_blank">clink link to see job profile on Seek</a></p>
 
 <p>The job position is that of a mobile developer who will work with client’s digital products to produce applications for them through the iOS, tvOS and watchOS platforms of Apple whilst continually updating and improving them.
 This will include planning the application, coding, testing, documenting and using API integration and refactor complex program integration within the app. There will be ongoing work with maintaining the code with fixing performance
