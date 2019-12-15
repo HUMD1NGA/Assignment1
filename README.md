@@ -15,7 +15,7 @@ COSC2196 Assignment 1: My Profile</h1>
 English is my only spoken language.</p>
 <p>My hobbies are building pc’s, keeping marine fish and coral, camping and spearfishing.</p>
 
-<img src="ProfilePic.jpeg" alt="Me and partner in Yosemite National Park" style="width:700px;height:550px;">
+<img src="ProfilePic.jpeg" alt="Me and partner in Yosemite National Park" style="width:750px;height:550px;">
 
 <h2>INTERESTS in IT</h2>
 <p>What interests me about IT is the ever-evolving technological advances across all spectrums of the field. Whether it’s in the medical field with exome sequencing
