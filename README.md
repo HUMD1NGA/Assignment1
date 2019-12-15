@@ -87,7 +87,7 @@ Results:</b></h3>
 <h3><b>Online learning test
 Results:</b></h3>
 
-<img src="OnlineLearningTest.png" alt="Online learning Test">
+<img src="OnlineLearningTest.png" alt="Online learning Test" style="width:600px;height:500px;>
 
 <ul>
   <li><b>What do the results of the test mean for you?</b></li>
@@ -101,7 +101,7 @@ Results:</b></h3>
 <h3><b>Creativity Test
 Results:</b></h3>
 
-<img src="CreativityTest.png" alt="Creativity Test">
+<img src="CreativityTest.png" alt="Creativity Test" style="width:600px;height:500px;>
 
 <ul>
   <li><b>What do the results of the test mean for you?</b></li>
