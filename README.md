@@ -72,7 +72,7 @@ Results:</h3>
 <img src="MyersBriggsTest.png" alt="Myers Briggs Test">
 
 <ul>
-  <li>What do the results of the test mean for you?</li>
+  <li><b>What do the results of the test mean for you?</b></li>
   <p>The results from the Myers-Briggs test show that my strengths are that I am reliable and supportive, enthusiastic and observant hard working and practical. My weaknesses are that I’m shy, take things too personally,
     hold my feelings back, overload myself with work and reluctant to change. I would say that this is quite accurate with how I portray myself in everyday life.</p>
   <li>How do you think these results may influence your behaviour in a team?</li>
@@ -88,7 +88,7 @@ Results:</h3>
 <img src="OnlineLearningTest.png" alt="Online learning Test">
 
 <ul>
-  <li></li><b>What do the results of the test mean for you?</b>
+  <li><b>What do the results of the test mean for you?</b></li>
   <p>These results from the learning style test mean to me that I’m a visual learner, taking a learning approach more to reading and visually seeing things than just talking about them.</p>
   <li>How do you think these results may influence your behaviour in a team?</li>
   <p>With these results I’d say it would influence myself to have more conference meeting within a team either in a board meeting or over a video conference call where topics are discussed with visual aids.</p>
@@ -102,7 +102,7 @@ Results:</h3>
 <img src="CreativityTest.png" alt="Creativity Test">
 
 <ul>
-  <li>What do the results of the test mean for you?</li>
+  <li><b>What do the results of the test mean for you?</b></li>
   <p> With the Creativity test is how I was more on the curiosity and complexity side of creativity. I think it shows I strive for perfection with what I’m working on or with. Also it shows that I work well managing information and tasks.</p>
   <li>How do you think these results may influence your behaviour in a team?</li>
   <p>I think with these results that I would be happy to take on tasks and use the information provided in discussions to manage what needs to be done to complete the tasks set out by the team.</p>
@@ -147,4 +147,3 @@ Planning and organisation skills of the project development, with competency in 
 By combining all these health areas into one manageable application it could solve users having to use multiple apps for each individual field.</p>
 </body>
 </html>
-
