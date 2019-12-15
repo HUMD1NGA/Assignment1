@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Assignment 1: My Profile</title>
 
 </head>
 <body> 
 <h1>INTRODUCTION TO INFORMATION TECHNOLOGY
 COSC2196 Assignment 1: My Profile</h1> 
 
-<p>Name: Adam Hedt
-Student Number: s3075523
-Email. s3075523@student.rmit.edu.au</p>
+<p>Name: Adam Hedt</p>
+<p>Student Number: s3075523</p>
+<p>Email. s3075523@student.rmit.edu.au</p>
 
 <img src="ProfilePic.jpeg" alt="Me">
 
@@ -40,7 +39,7 @@ Networking and Cloud computing are other areas of the IT field that I would like
 <h2>IDEAL JOB
 IOS MOBILE DEVELOPER</h2>
 <a herf="https://www.seek.com.au/job/40549192?type=standard#searchRequestToken=b88b9b9d-d0f1-4d8b-82dc-ba34559cfb81" target="_blank"></a>
-<img src="JobAdvert.PNG" alt="Advert">
+<img src="JobAdvert.png" alt="Advert">
 
 <p>The job position is that of a mobile developer who will work with client’s digital products to produce applications for them through the iOS, tvOS and watchOS platforms of Apple whilst continually updating and improving them.
 This will include planning the application, coding, testing, documenting and using API integration and refactor complex program integration within the app. There will be ongoing work with maintaining the code with fixing performance
