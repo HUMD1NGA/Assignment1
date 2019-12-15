@@ -4,15 +4,15 @@
 <title>Assignment 1: My Profile</title>
 
 </head>
-<body> 
-<h1>INTRODUCTION TO INFORMATION TECHNOLOGY
-COSC2196 Assignment 1: My Profile</h1> 
+<body> [browser will display between body tags]
+<title>INTRODUCTION TO INFORMATION TECHNOLOGY
+COSC2196 Assignment 1: My Profile</title>
 
 <p>Name: Adam Hedt
 Student Number: s3075523
-Email. s3075523@student.rmit.edu.au</p> 
+Email. s3075523@student.rmit.edu.au</p>
 
-<img src="ProfilePic.JPEG" alt="Me">
+<img src="ProfilePic.jpeg" alt="Me">
 
 <p>Background:
 I’m Australian and was born in Melbourne I have studied previously with RMIT. English is my only spoken language.
@@ -41,7 +41,7 @@ Networking and Cloud computing are other areas of the IT field that I would like
 <h2>IDEAL JOB
 IOS MOBILE DEVELOPER</h2>
 <a herf="https://www.seek.com.au/job/40549192?type=standard#searchRequestToken=b88b9b9d-d0f1-4d8b-82dc-ba34559cfb81" target="_blank"></a>
-<img src="JobAdvert.PNG" alt="Advert">
+<img src="JobAdvert.png" alt="Advert">
 
 <p>The job position is that of a mobile developer who will work with client’s digital products to produce applications for them through the iOS, tvOS and watchOS platforms of Apple whilst continually updating and improving them.
 This will include planning the application, coding, testing, documenting and using API integration and refactor complex program integration within the app. There will be ongoing work with maintaining the code with fixing performance
@@ -71,7 +71,7 @@ Also, a deeper understating of computer, network and cloud design that I can uti
 <h3>Myers-Briggs test
 Results:</h3>
 
-<img src="MyersBriggsTest.PNG" alt="Myers Briggs Test">
+<img src="MyersBriggsTest.png" alt="Myers Briggs Test">
 
 <ul>
   <li>What do the results of the test mean for you?</li>
@@ -87,7 +87,7 @@ Results:</h3>
 <h3>Online learning test
 Results:</h3>
 
-<img src="OnlineLearningTest.PNG" alt="Online learning Test">
+<img src="OnlineLearningTest.png" alt="Online learning Test">
 
 <ul>
   <li>What do the results of the test mean for you?</li>
@@ -101,7 +101,7 @@ Results:</h3>
 <h3>Creativity Test
 Results:</h3>
 
-<img src="CreativityTest.PNG" alt="Creativity Test">
+<img src="CreativityTest.png" alt="Creativity Test">
 
 <ul>
   <li>What do the results of the test mean for you?</li>
