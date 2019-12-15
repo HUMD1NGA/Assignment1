@@ -88,7 +88,7 @@ Results:</h3>
 <img src="OnlineLearningTest.png" alt="Online learning Test">
 
 <ul>
-  <li><b>What do the results of the test mean for you?</b></li>
+  <li></li><b>What do the results of the test mean for you?</b>
   <p>These results from the learning style test mean to me that I’m a visual learner, taking a learning approach more to reading and visually seeing things than just talking about them.</p>
   <li>How do you think these results may influence your behaviour in a team?</li>
   <p>With these results I’d say it would influence myself to have more conference meeting within a team either in a board meeting or over a video conference call where topics are discussed with visual aids.</p>
@@ -147,3 +147,4 @@ Planning and organisation skills of the project development, with competency in 
 By combining all these health areas into one manageable application it could solve users having to use multiple apps for each individual field.</p>
 </body>
 </html>
+
